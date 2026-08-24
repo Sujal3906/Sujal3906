@@ -1,26 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sujal Jethva</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal3906&label=Profile%20views&color=0e75b6&style=flat" alt="sujal3906" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20Sujal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Passionate%20Learner%20%7C%20Full-Stack%20Developer%20%7C%20Building%20cool%20things&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal3906" alt="sujal3906" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=560&lines=Jethava+Sujal+Jayantibhai;Passionate+Developer+from+India+🇮🇳;Building+Government+Polytechnic+Admin+Panel;Full-Stack+%7C+Java+%7C+Python+%7C+PHP;Always+learning+something+new+🚀" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on **Government polytechnic website admin panel**
+<br/>
 
-- 📫 How to reach me **sujaljethvagpa@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=Sujal3906&label=Profile%20Views&color=00c9a7&style=for-the-badge" alt="profile views"/>
+<a href="https://github.com/Sujal3906?tab=followers"><img src="https://img.shields.io/github/followers/Sujal3906?label=Followers&style=for-the-badge&color=2c5364&labelColor=0f2027" /></a>
+<a href="https://linkedin.com/in/sujal-jethva-3906j"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f2027?style=for-the-badge&logo=linkedin&logoColor=00c9a7&labelColor=0f2027" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sujal jethva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal jethva" height="30" width="40" /></a>
-<a href="https://instagram.com/sujal_3906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujal_3906" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal3906&show_icons=true&locale=en&layout=compact" alt="sujal3906" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal3906&show_icons=true&locale=en" alt="sujal3906" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal3906&" alt="sujal3906" /></p>
-
+```yaml
+name: Jethava Sujal Jayantibhai
+location: India 🇮🇳
+role: Passionate Learner & Developer
+currently_building: "Government Polytechnic Website Admin Panel"
+currently_exploring: "Full-Stack Web Development & Hackathon Projects"
+fun_fact: "Turning coffee into code, one commit at a time ☕"
+reach_me: "sujaljethvagpa@gmail.com"
