@@ -22,7 +22,6 @@
 name: Jethava Sujal Jayantibhai
 location: India 🇮🇳
 role: Passionate Learner & Developer
-currently_building: "Government Polytechnic Website Admin Panel"
 currently_exploring: "Full-Stack Web Development & Hackathon Projects"
 fun_fact: "Turning coffee into code, one commit at a time ☕"
 reach_me: "sujaljethvagpa@gmail.com"
