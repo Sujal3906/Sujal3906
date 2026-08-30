@@ -137,7 +137,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujal3906&theme=github-compact&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujal3906&theme=tokyonight" alt="GitHub Profile & Activity Summary" width="100%" />
 </div>
 
 ---
