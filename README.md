@@ -124,8 +124,8 @@
 ### 📊 GitHub Analytics & Activity Metrics
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Sujal3906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=94A3B8" alt="Sujal's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal3906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sujal3906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=94A3B8" alt="Sujal's GitHub Stats" />
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujal3906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" alt="Top Languages" />
 </div>
 
 <br />
